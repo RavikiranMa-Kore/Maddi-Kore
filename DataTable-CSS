@@ -1,0 +1,14 @@
+
+p.bgclr::selection {
+  color: white;
+  background: black;
+}
+a::-moz-selection {
+  color: white;
+  background: green;
+}
+
+a::selection {
+  color: white;
+  background: green;
+}
